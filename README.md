@@ -3,17 +3,9 @@
 <h3>Frontend developer</h3>
 <!-- 
 ![4jmJIvFtW54 1](https://user-images.githubusercontent.com/82677661/135193695-13412c90-e6dc-4486-a448-eea41d69cd21.png) -->
+<div style="position: relative">
 <img src="https://user-images.githubusercontent.com/82677661/135193695-13412c90-e6dc-4486-a448-eea41d69cd21.png" alt="img" style="margin: 0"/>
-
-<div style="display: flex">
-  <img src="https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif" alt="img" width="100px" height="100px"/>
-  <img src="https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif" alt="img" width="80px" height="80px"/>
-  <img src="https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif" alt="img" width="50px" height="50px"/>
-</div>
-
-
-
-<div style="display: flex">       
+<div style="display: flex; position: absolute; ">       
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
@@ -24,4 +16,15 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </div>
+</div>
+
+<div style="display: flex">
+  <img src="https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif" alt="img" width="100px" height="100px"/>
+  <img src="https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif" alt="img" width="80px" height="80px"/>
+  <img src="https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif" alt="img" width="50px" height="50px"/>
+</div>
+
+
+
+
 
