@@ -2,8 +2,8 @@
 ![4jmJIvFtW54 1](https://user-images.githubusercontent.com/82677661/135188549-3747609e-4cda-4674-b807-85e5681f6820.png)
 <!-- ![5UKD](https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif) -->
 <div style="display: flex">
-<img src="https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif" alt="img" width="70px"/>
-<img src="https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif" alt="img" width="60px"/>
+<img src="https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif" alt="img" width="100px"/>
+<img src="https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif" alt="img" width="80px"/>
 <img src="https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif" alt="img" width="50px"/>
 </div>
 
