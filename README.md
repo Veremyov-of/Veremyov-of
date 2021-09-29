@@ -1,7 +1,6 @@
 ### Hi there 👋
+![4jmJIvFtW54 1](https://user-images.githubusercontent.com/82677661/135188549-3747609e-4cda-4674-b807-85e5681f6820.png)
 
-<img src="https://i.gifer.com/5UKD.gif" width="40" height="40" />
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
 <!--
 **Veremyov-of/Veremyov-of** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
