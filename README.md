@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Alt Text](https://i.gifer.com/5UKD.gif)
+
+<img src="https://i.gifer.com/5UKD.gif" width="40" height="40" />
 <!--
 **Veremyov-of/Veremyov-of** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
