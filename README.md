@@ -1,5 +1,3 @@
-
-
 # Hi there 👋, my name is Denis 
 ![5UKD](https://user-images.githubusercontent.com/82677661/135188657-ad193c30-4088-4f28-842f-8e960afcf003.gif)
 ![4jmJIvFtW54 1](https://user-images.githubusercontent.com/82677661/135188549-3747609e-4cda-4674-b807-85e5681f6820.png)
