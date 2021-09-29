@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Denis<img src="https://user-images.githubusercontent.com/82677661/135194018-450e5ae9-7ca1-4162-a48e-fc06e5917988.gif" alt="img" width="50px"/>
+<img src="https://user-images.githubusercontent.com/82677661/135194018-450e5ae9-7ca1-4162-a48e-fc06e5917988.gif" alt="img" width="70px"/># Hi there 👋, my name is Denis
 ![4jmJIvFtW54 1](https://user-images.githubusercontent.com/82677661/135193695-13412c90-e6dc-4486-a448-eea41d69cd21.png)
 
 
