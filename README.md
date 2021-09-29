@@ -1,4 +1,5 @@
 ## Hi there 👋, my name is Denis
+### Frontend developer
 ![4jmJIvFtW54 1](https://user-images.githubusercontent.com/82677661/135193695-13412c90-e6dc-4486-a448-eea41d69cd21.png)
 
 
