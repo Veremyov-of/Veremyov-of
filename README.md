@@ -13,8 +13,6 @@
   <img src="https://user-images.githubusercontent.com/82677661/136040303-0790b00a-161a-4ea8-9a86-31db46bf6666.gif" alt="img" width="50px" height="50px"/>
 </div>
 
-![7JzS](https://user-images.githubusercontent.com/82677661/136040303-0790b00a-161a-4ea8-9a86-31db46bf6666.gif)
-
 
 
 
