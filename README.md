@@ -1,6 +1,6 @@
-## Hi there 👋, my name is Denis
+<!-- ## Hi there 👋, my name is Denis
 
-<h3>Frontend developer</h3>
+<h3>Frontend developer</h3> -->
 <!-- 
 ![4jmJIvFtW54 1](https://user-images.githubusercontent.com/82677661/135193695-13412c90-e6dc-4486-a448-eea41d69cd21.png) -->
 <img src="https://user-images.githubusercontent.com/82677661/135199734-abc7dce6-18d1-48ed-a577-8d9d88b7ad1d.png" alt="img" style="margin: 0"/>
